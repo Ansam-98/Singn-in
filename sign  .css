@@ -1,0 +1,24 @@
+body{
+background-color:lavender;
+    padding-top: 5em;
+}
+
+
+.container{
+      width: 40%;
+    
+          margin: auto;
+            padding: 0px;
+            background-color:white;
+        
+            box-shadow:5px;
+             border:1px solid #dcdcdc;
+             
+                 }
+          .h{
+              text-align: center;
+          }
+
+form{
+    padding: 2em;
+}
